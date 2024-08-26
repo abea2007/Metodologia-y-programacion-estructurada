@@ -1,0 +1,20 @@
+Tipos de datos en Csharp
+
+1. Bool 1 (true-false)
+2. Char 2 Tabla Unicode
+3. Byte signed 1
+4. Sbyte 1
+5. String cadena
+6. Short 2
+7. Ushort 2
+8. Int 4 
+9. Uint 4 Unisgned es decir solo numeros positivos
+10. Long 8
+11. Ulong 8
+12. Float 4
+13. Double 8 se usan entre 15/16 deimales 
+14. Decimal 16, 2 elevado a la 128
+
+Cada tipo de datotiene un rango sign solo podemos hacer de 0 a numeros positivos y sin la u, es decir usgined podemos trabajor con los negativos y psoitivosd
+El gfloat se utilia para trabjar numeros decimales
+Son en toal 14 tipos de ddatos
